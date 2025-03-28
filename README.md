@@ -29,7 +29,7 @@ This is a React Native movie application built with [Expo](https://expo.dev), cr
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/<your-username>/movie-app-new.git
    cd movie-app
    ```
 
